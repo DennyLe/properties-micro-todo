@@ -1,1 +1,1 @@
-# prop-test
+# Properties for planner todo micro project
